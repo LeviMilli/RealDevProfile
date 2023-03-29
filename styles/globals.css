@@ -144,9 +144,9 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #c2d8ef !important;
+			color: #00cf99 !important;
       
-      text-shadow: 2px 2px 2px white;
+      		text-shadow: 2px 2px 2px black;
 		}
 
 			h2.alt strong {
@@ -182,7 +182,7 @@ input, select, textarea {
 	a {
 		text-decoration: none;
 		color: inherit;
-		border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+		
 		-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -1773,7 +1773,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: black;
 		}
 
 			.image.avatar48 img {
@@ -1950,6 +1950,15 @@ input, select, textarea {
 		table tfoot {
 			background: #eee;
 		}
+
+	.row h3, .github {
+		color: #984fbd;
+		font-weight: bold;
+	}
+	
+	b {
+		text-decoration: underline;
+	}
 
 /* Button */
 
@@ -2230,7 +2239,7 @@ input, select, textarea {
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 			text-align: center;
-			background: red;
+			background: black;
 		}
 
 			#main > section.dark {
