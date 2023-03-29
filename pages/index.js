@@ -105,6 +105,7 @@ export default function Home() {
 											<h3>Crypto Trove</h3>
 											<p>Fullstack Crypto Price Tracking app. Allows user to store personal investments that is updated using real time data from API's</p>
 											<p><b>Tech Used:</b> React, Javascript, Node.js, RestAPI's, Express, MongoDB </p>
+											<p><b className='github'><a href='https://github.com/LeviMilli/CryptoTrove' target="_blank">Full Code</a></b></p>
 										</header>
 									</article>
 									<article class="item">
@@ -112,7 +113,8 @@ export default function Home() {
 										<header>
 											<h3>Milli AI</h3>
 											<p>Fullstack Ai App that lets users create Ai generated responses that are saved to the public and can be liked</p>
-											<p><b>Tech Used:</b> Next.js, Typescript, OpenAi, Node.js</p>										</header>
+											<p><b>Tech Used:</b> Next.js, Typescript, OpenAi, Node.js</p>	
+											<p><b className='github'><a href='https://github.com/LeviMilli/Milli-Ai' target="_blank">Full Code</a></b></p>									</header>
 									</article>
 								</div>
 								<div class="col-4 col-12-mobile">
@@ -122,6 +124,7 @@ export default function Home() {
 											<h3><a href='https://food-mate.cyclic.app' target="_blank">FoodMate</a></h3>
 											<p>Fullstack Food recipe app. Allows user's to save pre-built recipes sourced from API's or make thier own custom recipes</p>
 											<p><b>Tech Used:</b> React, Node.js, Cloudinary, RestAPI's, Express, MongoDB </p>
+											<p><b className='github'><a href='https://github.com/LeviMilli/foodSnitch-server' target="_blank">Full Code</a></b></p>
 										</header>
 									</article>
 									<article class="item">
@@ -130,6 +133,7 @@ export default function Home() {
 											<h3>Jigsaw</h3>
 											<p>Text to image app using OpenAi's API endpoint for image generation that displays on the screen.</p>
 											<p><b>Tech Used:</b> React, OpenAi </p>
+											<p><b className='github'><a href='https://github.com/LeviMilli/Ai-Jigsaw' target="_blank">Full Code</a></b></p>
 										</header>
 									</article>
 								</div>
