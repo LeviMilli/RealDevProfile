@@ -34,7 +34,7 @@ export default function Home() {
 
 				
 						<div id="logo">
-							<span class="image avatar48"><img src="https://media.licdn.com/dms/image/D5603AQEVMnKKD1vfvA/profile-displayphoto-shrink_800_800/0/1675133217442?e=1685577600&v=beta&t=Ccbj2M0odXP1-zcFVo9jQTaky8zgkYUgA5AbdF0wk8k" alt="" /></span>
+							<span class="image avatar48"><img src="/picofme.jpeg" alt="" /></span>
 							<h1 id="title">Levi Millikin</h1>
 							<p>FullStack Software Engineer</p>
 						</div>
@@ -68,7 +68,7 @@ export default function Home() {
 			<div id="main">
 
 			
-					<section id="top" class="one dark cover">
+					<section id="top" loading="lazy" class="one dark cover">
 						<div class="container">
 
 							<header>
@@ -100,7 +100,7 @@ export default function Home() {
 							<div class="row">
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="cryptotrove-production.up.railway.app" target="_blank" class="image fit"><img src="https://media.giphy.com/media/wV6eBBTa0x8foQbtj1/giphy.gif" alt="" /></a>
+										<a href="https://cryptotrove-production.up.railway.app/" target="_blank" class="image fit"><img src="https://media.giphy.com/media/wV6eBBTa0x8foQbtj1/giphy.gif" alt="" /></a>
 										<header>
 											<h3>Crypto Trove</h3>
 											<p>Fullstack Crypto Price Tracking app. Allows user to store personal investments that is updated using real time data from API's</p>
@@ -119,9 +119,9 @@ export default function Home() {
 								</div>
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="https://food-mate.cyclic.app" target="_blank" class="image fit"><img src="https://media.giphy.com/media/LCJilvyrayF44HsYCC/giphy.gif" alt="" /></a>
+										<a href="https://github.com/LeviMilli/foodSnitch-server" target="_blank" class="image fit"><img src="https://media.giphy.com/media/LCJilvyrayF44HsYCC/giphy.gif" alt="" /></a>
 										<header>
-											<h3><a href='https://food-mate.cyclic.app' target="_blank">FoodMate</a></h3>
+											<h3><a href='https://github.com/LeviMilli/foodSnitch-server' target="_blank">FoodMate</a></h3>
 											<p>Fullstack Food recipe app. Allows user's to save pre-built recipes sourced from API's or make thier own custom recipes</p>
 											<p><b>Tech Used:</b> React, Node.js, Cloudinary, RestAPI's, Express, MongoDB </p>
 											<p><b className='github'><a href='https://github.com/LeviMilli/foodSnitch-server' target="_blank">Full Code</a></b></p>
